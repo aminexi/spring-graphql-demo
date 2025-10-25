@@ -38,8 +38,9 @@ Modifier un produit
 <img width="1919" height="496" alt="Screenshot 2025-10-25 100513" src="https://github.com/user-attachments/assets/7723dc29-4755-4055-976c-60667ffdc120" />
 
 Supprimer un produit
-<img width="1919" height="432" alt="Screenshot 2025-10-25![Uploading image.png…]()
+<img width="1919" height="432" alt="Screenshot 2025-10-25<img width="823" height="969" alt="image" src="https://github.com/user-attachments/assets/8a4abc3c-835b-4ec8-ac9f-5be226d4d667" />
  100535" src="https://github.com/user-attachments/assets/3794f496-da5d-4d96-8ffa-581776a7565f" />
 ## Structure du projet
+<img width="823" height="969" alt="Screenshot 2025-10-25 102200" src="https://github.com/user-attachments/assets/7e245fa6-7efb-4e24-8cae-f0440d7b2287" />
 
 
